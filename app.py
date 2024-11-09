@@ -153,7 +153,7 @@ def main():
                          input_data.columns.tolist())
 
     st.markdown("---")
-    st.write("Developed by UmmeUmara")
+    st.write("Developed by UmmeUmara Savantwadi")
 
 
 if __name__ == '__main__':
